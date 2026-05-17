@@ -1,0 +1,291 @@
+<!-- ===================================== -->
+<!-- frontend/index.html -->
+<!-- ===================================== -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8" />
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    />
+
+    <title>
+        Hybrid Product Intelligence Agent
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    />
+
+</head>
+
+<body>
+
+    <!-- Background Effects -->
+
+    <div class="bg-glow glow1"></div>
+    <div class="bg-glow glow2"></div>
+
+    <!-- Navbar -->
+
+    <nav class="navbar">
+
+        <div>
+
+            <h1 class="logo">
+                Hybrid Product Intelligence Agent
+            </h1>
+
+            <p class="subtitle">
+                Groq + FastAPI + ChromaDB
+            </p>
+
+        </div>
+
+        <button class="nav-btn">
+            AI Assistant
+        </button>
+
+    </nav>
+
+    <!-- Hero Section -->
+
+    <section class="hero">
+
+        <div class="hero-left">
+
+            <span class="tag">
+                ⚡ Enterprise AI Product Platform
+            </span>
+
+            <h2>
+                AI-Powered
+                <span>
+                    Laptop Recommendation
+                </span>
+                Agent
+            </h2>
+
+            <p>
+                Intelligent product analytics and
+                recommendation system powered by
+                Groq LLM, ChromaDB vector search,
+                and full dataframe reasoning.
+            </p>
+
+            <div class="hero-buttons">
+
+                <button class="primary-btn">
+                    Start Asking
+                </button>
+
+                <button class="secondary-btn">
+                    View Architecture
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- Chat Card -->
+
+        <div class="chat-card">
+
+            <div class="chat-header">
+
+                <div>
+
+                    <h3>
+                        AI Product Assistant
+                    </h3>
+
+                    <p>
+                        Connected to FastAPI Backend
+                    </p>
+
+                </div>
+
+                <div class="online-dot"></div>
+
+            </div>
+
+            <!-- Chat Area -->
+
+            <div
+                class="chat-box"
+                id="chat-box"
+            >
+
+                <!-- AI Welcome Message -->
+
+                <div class="ai-message">
+
+                    <div class="ai-label">
+                        AI Agent
+                    </div>
+
+                    <div class="message-content">
+
+                        👋 Welcome to Hybrid Product
+                        Intelligence Agent.
+
+                        <br /><br />
+
+                        Ask any:
+                        <br />
+                        • Product recommendation question
+                        <br />
+                        • Analytical query
+                        <br />
+                        • Semantic search query
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Input Area -->
+
+            <div class="input-area">
+
+                <input
+                    type="text"
+                    id="question-input"
+                    placeholder="Ask any product question..."
+                />
+
+                <button
+                    id="ask-btn"
+                    onclick="askQuestion()"
+                >
+                    Ask
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Features -->
+
+    <section class="features">
+
+        <div class="feature-card">
+
+            <h3>
+                🧠 Semantic Search
+            </h3>
+
+            <p>
+                ChromaDB vector retrieval
+                with embeddings.
+            </p>
+
+        </div>
+
+        <div class="feature-card">
+
+            <h3>
+                📊 DataFrame Analytics
+            </h3>
+
+            <p>
+                Exact dataset computation
+                using pandas.
+            </p>
+
+        </div>
+
+        <div class="feature-card">
+
+            <h3>
+                ⚡ Groq LLM
+            </h3>
+
+            <p>
+                Ultra-fast enterprise AI
+                inference.
+            </p>
+
+        </div>
+
+        <div class="feature-card">
+
+            <h3>
+                🚀 Hybrid AI Engine
+            </h3>
+
+            <p>
+                Structured + semantic
+                intelligence combined.
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Sample Questions -->
+
+    <section class="samples">
+
+        <h2>
+            Try Sample Questions
+        </h2>
+
+        <div class="sample-grid">
+
+            <button onclick="fillQuestion(this)">
+                Suggest laptops for AI development
+            </button>
+
+            <button onclick="fillQuestion(this)">
+                Which laptop has the minimum price?
+            </button>
+
+            <button onclick="fillQuestion(this)">
+                Best gaming laptops under 1500 Euros
+            </button>
+
+            <button onclick="fillQuestion(this)">
+                How many HP laptops are there?
+            </button>
+
+            <button onclick="fillQuestion(this)">
+                Recommend lightweight laptops
+            </button>
+
+            <button onclick="fillQuestion(this)">
+                Show laptops with 16GB RAM
+            </button>
+
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+
+    <footer>
+
+        <h3>
+            Hybrid Product Intelligence Agent
+        </h3>
+
+        <p>
+            Groq + FastAPI + ChromaDB + AI Analytics
+        </p>
+
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

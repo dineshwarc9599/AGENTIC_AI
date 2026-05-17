@@ -1,0 +1,23 @@
+TEST CASES
+
+Test Case ID: TC001
+Module: Login
+Scenario: User login with valid credentials
+Expected Result: User should login successfully
+Status: Passed
+
+-----------------------------------
+
+Test Case ID: TC002
+Module: Cart
+Scenario: Add product to cart
+Expected Result: Product should be added
+Status: Passed
+
+-----------------------------------
+
+Test Case ID: TC003
+Module: Payment
+Scenario: Invalid card details
+Expected Result: Error message displayed
+Status: Passed

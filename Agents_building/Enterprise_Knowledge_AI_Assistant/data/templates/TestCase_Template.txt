@@ -1,0 +1,17 @@
+TEST CASE TEMPLATE
+
+Test Case ID:
+
+Module Name:
+
+Scenario:
+
+Preconditions:
+
+Test Steps:
+
+Expected Result:
+
+Actual Result:
+
+Status:

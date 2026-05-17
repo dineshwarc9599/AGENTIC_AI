@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pillow
+langgraph
+langchain
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+sentence-transformers
+tiktoken

@@ -1,0 +1,21 @@
+BUSINESS REQUIREMENT DOCUMENT
+
+1. Project Overview
+
+2. Business Objective
+
+3. Scope
+
+4. Stakeholders
+
+5. Functional Requirements
+
+6. Non Functional Requirements
+
+7. Assumptions
+
+8. Risks
+
+9. Timeline
+
+10. Approval

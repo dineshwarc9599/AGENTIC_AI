@@ -1,0 +1,25 @@
+SOFTWARE REQUIREMENT SPECIFICATION
+
+Project:
+Employee Attendance System
+
+Purpose:
+Track employee attendance and working hours.
+
+Functional Requirements:
+- Employee login
+- Attendance marking
+- Monthly attendance reports
+- Leave requests
+- Admin dashboard
+
+Non Functional Requirements:
+- High availability
+- Secure authentication
+- Fast response time
+
+Database:
+PostgreSQL
+
+Technology:
+React + FastAPI

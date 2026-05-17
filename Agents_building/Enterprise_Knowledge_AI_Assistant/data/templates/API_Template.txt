@@ -1,0 +1,17 @@
+API DOCUMENT TEMPLATE
+
+Endpoint:
+
+Method:
+
+Headers:
+
+Authentication:
+
+Request Body:
+
+Response:
+
+Error Codes:
+
+Validation Rules:

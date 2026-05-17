@@ -1,0 +1,19 @@
+BUSINESS REQUIREMENT DOCUMENT
+
+Project:
+Leave Management System
+
+Objective:
+Automate leave requests and approvals.
+
+Features:
+- Apply leave
+- Leave approval workflow
+- Leave balance tracking
+- Notification system
+- Leave reports
+
+Users:
+- Employees
+- Managers
+- HR Team

@@ -1,0 +1,20 @@
+SOFTWARE REQUIREMENT SPECIFICATION
+
+Project:
+Loan Processing System
+
+Features:
+- Loan application
+- Eligibility verification
+- EMI calculation
+- Loan approval workflow
+- Payment tracking
+
+Security:
+- Role-based access
+- Encrypted customer data
+
+Technology:
+React
+Spring Boot
+Oracle DB

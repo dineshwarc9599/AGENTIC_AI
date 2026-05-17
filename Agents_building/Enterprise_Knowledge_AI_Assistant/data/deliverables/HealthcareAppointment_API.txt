@@ -1,0 +1,21 @@
+API DOCUMENTATION
+
+Endpoint: /api/book-appointment
+
+Method: POST
+
+Purpose:
+Book doctor appointments.
+
+Request:
+{
+  "patient_name": "John",
+  "doctor_id": "DOC100",
+  "appointment_date": "2026-06-01"
+}
+
+Response:
+{
+  "status": "confirmed",
+  "appointment_id": "APT1001"
+}

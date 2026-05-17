@@ -1,0 +1,29 @@
+API DOCUMENTATION
+
+Endpoint: /api/create-payment
+
+Method: POST
+
+Authentication:
+Bearer Token
+
+Purpose:
+Create a payment transaction.
+
+Request Body:
+{
+  "amount": 5000,
+  "currency": "INR",
+  "customer_id": "CUST1001"
+}
+
+Response:
+{
+  "status": "success",
+  "transaction_id": "TXN10001"
+}
+
+Error Codes:
+400 - Invalid Request
+401 - Unauthorized
+500 - Internal Server Error

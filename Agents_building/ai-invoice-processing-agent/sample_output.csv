@@ -1,0 +1,9 @@
+account_number,bill_id,start_date,end_date,total_demand,total_consumption,total_consumption_on_peak,total_consumption_int_peak,total_consumption_off_peak,total_supply,total_cost,total_on_peak_cost,total_off_peak_cost,outstanding_balance,new_charges,total_bill_amount,meter_read_type,supplier,submeter_number,submeter_consumption,submeter_demand,confidence_score
+8953964217,,2026-02-12,2026-03-12,287.6,113268,18828,,94440,,12152.38,873.62,2191.01,15672.71,12152.38,28423.96,Actual,Colorado Springs Utilities,,,,83.0
+8953964217,,2026-02-12,2026-03-12,,2430,,,,,251.31,,,15672.71,251.31,28423.96,Actual,Colorado Springs Utilities,,,,90.0
+8953964217,,2026-02-12,2026-03-12,,2430,,,,,129.76,,,15672.71,129.76,28423.96,Actual,Colorado Springs Utilities,284052SM,,,90.0
+8953964217,,2026-02-12,2026-03-12,,,,,,,217.8,,,15672.71,217.8,28423.96,,Colorado Springs Utilities,,,,100.0
+8491640000,,2025-08-20,2025-09-08,,237000,,,,,2633.28,,,24337.3,2633.28,31623.63,Actual,WSSC Water,S 86760208,237000,,90.0
+8491640000,,2025-08-20,2025-09-08,,237000,,,,,4209.14,,,24337.3,4209.14,31623.63,Actual,WSSC Water,S 86760208,237000,,90.0
+5504 0891 875,210005780064,2026-02-04,2026-03-03,637.3,127959,35912,36561,55486,12838.41,11718.7,997.81,1541.68,0.0,11718.7,24557.11,Actual,ENGIE Resources | Pepco,,,,100.0
+2148445509,,2026-02-02,2026-03-03,141.5,37448.0,,,,,6830.99,,,0.0,6830.99,6830.99,Actual,Tucson Electric Power,,,,90.0

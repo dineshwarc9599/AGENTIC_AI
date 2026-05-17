@@ -1,0 +1,32 @@
+[
+  {
+    "file_name": "HRMS_BRD.txt",
+    "domain": "HR",
+    "document_type": "BRD",
+    "technology": "React + FastAPI"
+  },
+  {
+    "file_name": "PaymentGateway_API.txt",
+    "domain": "Banking",
+    "document_type": "API",
+    "technology": "FastAPI"
+  },
+  {
+    "file_name": "AttendanceSystem_SRS.txt",
+    "domain": "HR",
+    "document_type": "SRS",
+    "technology": "React + PostgreSQL"
+  },
+  {
+    "file_name": "Ecommerce_TestCases.txt",
+    "domain": "Ecommerce",
+    "document_type": "TestCases",
+    "technology": "Node.js"
+  },
+  {
+    "file_name": "InventoryManagement_BRD.txt",
+    "domain": "Inventory",
+    "document_type": "BRD",
+    "technology": "Vue.js"
+  }
+]

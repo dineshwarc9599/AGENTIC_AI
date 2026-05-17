@@ -1,0 +1,24 @@
+BUSINESS REQUIREMENT DOCUMENT
+
+Project Name:
+Inventory Management System
+
+Objective:
+Manage stock levels and warehouse operations.
+
+Features:
+- Product management
+- Inventory tracking
+- Supplier management
+- Purchase orders
+- Reports dashboard
+
+Technology:
+Vue.js
+Node.js
+MongoDB
+
+Users:
+- Warehouse staff
+- Admin
+- Suppliers

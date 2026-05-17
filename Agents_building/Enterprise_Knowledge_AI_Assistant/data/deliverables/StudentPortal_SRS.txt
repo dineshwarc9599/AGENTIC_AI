@@ -1,0 +1,21 @@
+SOFTWARE REQUIREMENT SPECIFICATION
+
+Project:
+Student Management Portal
+
+Modules:
+- Student registration
+- Course enrollment
+- Attendance tracking
+- Exam management
+- Results publishing
+
+Users:
+- Students
+- Faculty
+- Admin
+
+Technology:
+Angular
+FastAPI
+MySQL

@@ -1,0 +1,25 @@
+Project Name: Human Resource Management System
+
+Objective:
+Develop an HRMS platform for employee management.
+
+Features:
+- Employee onboarding
+- Attendance management
+- Leave management
+- Payroll processing
+- Performance tracking
+
+Technology:
+Frontend: React
+Backend: FastAPI
+Database: PostgreSQL
+
+Users:
+- HR Team
+- Employees
+- Managers
+
+Risks:
+- Data privacy
+- Payroll calculation errors
